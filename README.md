@@ -15,4 +15,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Creation of new Branch:
 Branch name Documentation
+### Real Life situation:
+working with other team mates
 
