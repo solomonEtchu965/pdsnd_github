@@ -69,7 +69,12 @@ def get_time():
         period = input("\n Please choose a period filter option between 'month', 'day' of the week, or none (no) \n").lower()
 
 def month_info(m):      # get user input for month (all, january, february, ... , june)
+<<<<<<< HEAD
     # Just the month of the year as indicated not including Decembers and other months
+||||||| merged common ancestors
+=======
+    # There is no December and other month of the year for now. 
+>>>>>>> documentation
     if m == 'month':
         month = input('\nChoose month! January, February, March, April, May, or June, July, August, september, October, Novemeber, December? Please type the full month name.\n')
         while month.strip().lower() not in ['january', 'february', 'march', 'april', 'may', 'june','july','august','september','october','november','december']:
